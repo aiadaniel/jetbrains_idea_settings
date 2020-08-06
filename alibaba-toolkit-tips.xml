@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="D:/workspace/springcloud-learning" firstStartUp="false" />
     <entry projectName="D:/workspace/thingsboard" firstStartUp="false" />
   </component>
 </application>
